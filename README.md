@@ -1,5 +1,5 @@
-<h1 align="center">Hello Welcome to my profile</h1>
-<h3 align="center">Software engineer</h3>
+<h1 align="center">Hello 🙌 Welcome to my profile</h1>
+<h3 align="center">I am passionate about IT, and I was able to gain practical experience in the design and creation of web applications acquired during various internships and projects, with a great capacity for adaptation and project management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminemazza&label=Profile%20views&color=0e75b6&style=flat" alt="aminemazza" /> </p>
 
