@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my profile 🙌</h1>
 
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Enter_Mike.gif?raw=true)
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/AmineMAZZAgif?raw=true)
 
 
 <h3 align="center">I am passionate about IT, and I was able to gain practical experience in the design and creation of web applications acquired during various internships and projects, with a great capacity for adaptation and project management.</h3>
