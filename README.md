@@ -22,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminemazza&show_icons=true&locale=en&layout=compact" alt="aminemazza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminemazza&show_icons=true&locale=en" alt="aminemazza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminemazza&" alt="aminemazza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminemazza&" alt="aminemazza" /></p>
