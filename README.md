@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminemazza&label=Profile%20views&color=0e75b6&style=flat" alt="aminemazza" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Laravel - React JS**
 
 - 👨‍💻 All of my projects are available at [https://aminemazza.github.io/portfolio/](https://aminemazza.github.io/portfolio/)
 
