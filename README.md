@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aminemazza.github.io/portfolio/](https://aminemazza.github.io/portfolio/)
 
-- 💬 Ask me about **Symfony , Laravel**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **Aminemazza6@gmail.com**
 
