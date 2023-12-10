@@ -3,7 +3,7 @@
 <h3 align="center">I am passionate about IT, and I was able to gain practical experience in the design and creation of web applications acquired during various internships and projects, with a great capacity for adaptation and project management.</h3>
 
 
- <img height="500" width="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" /> 
+ <img height="400" width="900" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="coding" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminemazza&label=Profile%20views&color=0e75b6&style=flat" alt="aminemazza" /> </p>
 
