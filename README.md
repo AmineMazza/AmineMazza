@@ -6,7 +6,7 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminemazza&label=Profile%20views&color=0e75b6&style=flat" alt="aminemazza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aminemazza&label=Profile%20views&color=0e75b6&style=flat" alt="aminemazza" /> </p>
 
 - 🌱 I’m currently learning **Laravel - React JS**
 
