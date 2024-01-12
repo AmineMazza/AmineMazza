@@ -1,4 +1,4 @@
-<h1 align="center"> WELCOME TO MY PROFILE 🙌</h1>
+<h1 align="center"> 🙌 WELCOME TO MY PROFILE 🙌</h1>
 
 <h3 align="center">I am passionate about IT, and I was able to gain practical experience in the design and creation of web applications acquired during various internships and projects, with a great capacity for adaptation and project management.</h3>
 <div align="center" >
