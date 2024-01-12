@@ -7,11 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aminemazza&label=Profile%20views&color=0e75b6&style=flat" alt="aminemazza" /> </p>
 
-- 🌱 I’m currently learning **Laravel - React JS**
+- 🌱 I’m currently learning : **Laravel - React JS**
 
-- 👨‍💻 All of my projects are available at [https://aminemazza.github.io/portfolio/](https://aminemazza.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at : [https://aminemazza.github.io/portfolio/](https://aminemazza.github.io/portfolio/)
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about : **PHP**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
