@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at : [https://aminemazza.github.io/portfolio/](https://aminemazza.github.io/portfolio/)
 
-- 💬 Ask me about : **PHP**
+- 💬 Ask me about: **PHP**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
